@@ -1,7 +1,6 @@
 # Bioinformatics Assignment
 
-## Group Name: Thomas Hunt Morgan  
-## Group Number: 5  
+## Group Name: Francis Crick Group
 
 ### **Introduction to Bioinformatics**
 Bioinformatics, is the science of storing, retrieving and analysing large amount of biological information. The term Bioinformatics was coined by Pauline Hogeweg and Ben Harper, to describe the study of information processes in biotic system. it a highly interdisciplinary field involving many different types of specialist, including biologist, molecular life scientist, computer scientist and mathematics
@@ -40,7 +39,3 @@ The following programming languages were assigned to the group for this assignme
 - **Bash:** Zaidu Abdulkarim
 - **Ruby:** Adamu Muhammad
 - **R:** Fatima Samaila Gumau
-
-# francis-crick-group
-# francis-crick-group
-# francis-crick-group
